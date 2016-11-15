@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iflytek.compass:compass-hadoop:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iflytek/compass/compass-hadoop/0.0.2-SNAPSHOT/compass-hadoop-0.0.2-20160612.023513-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iflytek/compass/compass-hadoop/0.0.2-SNAPSHOT/compass-hadoop-0.0.2-20160612.023513-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iflytek/compass/compass-hadoop/0.0.2-SNAPSHOT/compass-hadoop-0.0.2-20160612.023513-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
